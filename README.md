@@ -4,6 +4,8 @@ Software engineer in Vitória, Brazil. Four years building backend systems where
 
 Open to remote roles and to relocation within Europe. [LinkedIn](https://www.linkedin.com/in/rodrigo-da-vitoria)
 
+Most of my work lives in private repositories: the ERP of CRECI-ES, where I have made 551 commits since 2025, and the pension systems at ASPPrev. The projects below are public. `patrimonio` is the prototype of a module I later ported into that ERP, where it runs in production.
+
 ## Projects
 
 - **[patrimonio](https://github.com/rodrigovixc/patrimonio)**: asset and inventory management in Laravel, with custody chain, two depreciation methods and signed custody terms. I ported it into the council ERP, where it runs in production with ticket approval and Autentique digital signature.
