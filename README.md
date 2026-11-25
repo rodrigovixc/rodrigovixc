@@ -4,7 +4,7 @@ Software engineer in Vitória, Brazil. Four years building backend systems where
 
 Open to remote roles and to relocation within Europe. [LinkedIn](https://www.linkedin.com/in/rodrigo-da-vitoria)
 
-Most of my work lives in private repositories: the ERP of CRECI-ES, where I have made 551 commits since 2025, and the pension systems at ASPPrev. The projects below are public. `patrimonio` is the prototype of a module I later ported into that ERP, where it runs in production.
+Most of my work lives in private repositories: the ERP of CRECI-ES, where I have worked since 2024 and made more than 600 commits, and the pension systems at ASPPrev. The projects below are public. `patrimonio` is the prototype of a module I later ported into that ERP, where it runs in production.
 
 ## Projects
 
